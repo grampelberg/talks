@@ -1,3 +1,11 @@
+A Microservices Murder Mystery
+------------------------------
+
+###### 12-13-2018
+
+- [.NET Developers Association](https://www.meetup.com/en-AU/NET-Developers-Association-Westside/events/257009014/)
+- [Slides](dotnet-12-2018/slides.pdf)
+
 Scale Your Service on What Matters: Autoscaling on Latency
 ----------------------------------------------------------
 
