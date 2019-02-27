@@ -1,3 +1,11 @@
+Best Practices for Debugging and Monitoring your Go Kubernetes Services
+-----------------------------------------------------------------------
+
+###### 12-13-2018
+
+- [GoSF](https://www.meetup.com/golangsf/events/257910415/)
+- [Slides](gosf-02-2019/slides.pdf)
+
 A Microservices Murder Mystery
 ------------------------------
 
