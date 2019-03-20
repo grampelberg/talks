@@ -1,7 +1,15 @@
+gRPC Forensics: Investigating Problems in Production
+----------------------------------------------------
+
+###### 03-21-2019
+
+- [gRPC Conf 2019](https://events.linuxfoundation.org/events/grpconf-2019/)
+- [Slides](grpcconf-03-2019/slides.pdf)
+
 Best Practices for Debugging and Monitoring your Go Kubernetes Services
 -----------------------------------------------------------------------
 
-###### 12-13-2018
+###### 02-27-2019
 
 - [GoSF](https://www.meetup.com/golangsf/events/257910415/)
 - [Slides](gosf-02-2019/slides.pdf)
