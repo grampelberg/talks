@@ -1,3 +1,11 @@
+Microservice Murder Mystery
+----------------------------------------------------
+
+###### 06-13-2019
+
+- [Software Architecture Conf 2019](https://conferences.oreilly.com/software-architecture/sa-ca)
+- [Slides](sa-conf-06-2019/slides.pdf)
+
 gRPC Forensics: Investigating Problems in Production
 ----------------------------------------------------
 
