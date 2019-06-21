@@ -1,3 +1,11 @@
+Microservice Forensics: Investigating Problems in Production
+------------------------------------------------------------
+
+###### 06-24-2019
+
+- [CloudExpo 2019](https://www.cloudcomputingexpo.com/)
+- [Slides](cloudexpo-06-2019/slides.pdf)
+
 Microservice Murder Mystery
 ----------------------------------------------------
 
